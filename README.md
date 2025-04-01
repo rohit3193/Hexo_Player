@@ -1,4 +1,4 @@
-# Hexo Player
+# Hexo Player <img src="ic_launcher_new_round.webp" width="45" height="45"/>
 - This is a unofficial fork of Android VLC Player
 - Supported for both andorid mobile and TV
 - It has the **"Referer"** and **"User-Agent"** header support through intent management
