@@ -37,7 +37,7 @@ getActivityResult.launch(hexoIntent)
 | "extra_position" | long | Last position in media when player exited
 | "extra_duration" | long | Total duration of the media
 | "referrer_header" | string | To set any specific **Referer** header value for the given streaming link
-| "user_agent" | string |TO set any specific **User-Agent** header value for the given streamin link
+| "user_agent" | string |To set any specific **User-Agent** header value for the given streamin link
 | "force_incognito" | boolean | To avoid stremaing link to be listed in Network stream histoy
 
 ### Result codes
